@@ -1,7 +1,7 @@
 # Robot Serveur – Agent Intelligent avec Unity ML-Agents
 Ce projet vise à entraîner un agent intelligent dans un environnement 3D de restaurant, en utilisant Unity ML-Agents et l’algorithme PPO (Proximal Policy Optimization). L’environnement est basé sur l’asset Fast Food Restaurant Kit, simulant un restaurant réaliste dans lequel un robot doit apprendre à naviguer.
 
-### ![image](https://github.com/user-attachments/assets/f8bca953-5f62-451e-99ee-81b2a04a5ab2)
+####  ![image](https://github.com/user-attachments/assets/f8bca953-5f62-451e-99ee-81b2a04a5ab2)
 
 ## Objectif du projet
 Développer un agent capable de :
@@ -32,6 +32,7 @@ L’agent est entraîné à l’aide de l’algorithme PPO, configuré via un fi
 Ces réglages permettent un contrôle fin du comportement d’apprentissage.
 
 ## Architecture technique
+
 ### Interaction Unity ↔ ML-Agents
 - Agent : gère l'observation, les récompenses, et les actions.
 
@@ -62,6 +63,12 @@ Ces réglages permettent un contrôle fin du comportement d’apprentissage.
 ## Vue sur outils 
 
 ![image](https://github.com/user-attachments/assets/fdf9c4fd-b856-4d97-9e3f-bd71d5c52c18)
+
+
+#### configue yaml
+
+![image](https://github.com/user-attachments/assets/4843cabe-0cfa-4e3a-9dcc-a845634676cb)
+
 
 
 
